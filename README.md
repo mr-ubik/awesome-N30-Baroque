@@ -39,5 +39,7 @@ overall style.
 
 ### Unixporn
 
+- [VSCode Neo-Baroque Theme](https://github.com/mr-ubik/vscode-neo-baroque)
 - [CM-Cobalt-nyMphalidae](https://www.reddit.com/r/unixporn/comments/a5r7su/i3wm_cmcobaltnymphalidae/)
 - [Sci-fi orange deus-ex inspired desktop](https://www.reddit.com/r/unixporn/comments/5gv88w/i3_polybar_scifi_orange_deusex_inspired_desktop/)
+
